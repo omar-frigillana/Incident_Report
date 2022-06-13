@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627797664143",
+    "project_id": "goe-location-b4049",
+    "storage_bucket": "goe-location-b4049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627797664143:android:3e9a99a35bac18c1272bfa",
+        "android_client_info": {
+          "package_name": "com.example.geo_enabled_incident_report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627797664143-8ju4f087ivbf3lem25o7f4r3an658l1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGeSg0ignyxm2v28s4_EvJwmHtUEbLz9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627797664143-8ju4f087ivbf3lem25o7f4r3an658l1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
